@@ -1,5 +1,5 @@
 # Overview
-The Python Tkinter demos
+The Python Tkinter demos.
 
 # Screenshots
 
